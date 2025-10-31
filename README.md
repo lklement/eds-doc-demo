@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# EDS Permanent Demo Site
+For fallback during classes and experimentation.
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--eds-doc-demo--lklement.aem.page/
+- Live: https://main--eds-doc-demo--lklement.aem.live/
 
 ## Documentation
 
